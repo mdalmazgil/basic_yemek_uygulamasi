@@ -4,8 +4,6 @@ import 'package:yemek_uygulamasi/Yemekler.dart';
 class DetaySayfa extends StatefulWidget {
 
   Yemekler yemek;
-
-
   DetaySayfa({required this.yemek});
 
   @override
